@@ -10,7 +10,7 @@ const projects = [
   {
     title: "Campus Energy Audit & Action Plan",
     tech: "Python",
-    image: "/image.png ",
+    image: "/image.png",
     github: "https://github.com/kalyan6305/Tree_classification",
     live: "https://evovisionkalyan.streamlit.app/",
     description:
